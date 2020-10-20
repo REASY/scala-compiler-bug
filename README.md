@@ -42,4 +42,5 @@ Java HotSpot(TM) 64-Bit Server VM warning: ignoring option MaxPermSize=256m; sup
 
 ## Environment
 - JVM: Oracle JDK 8, jdk-8u261
+- Scala: 2.13.3
 - OS: Windows 10 x64, v.10.0.18362.1139
